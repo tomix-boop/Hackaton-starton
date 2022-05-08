@@ -23,11 +23,11 @@ Lien du formulaire : https://n2h8b05bpcp.typeform.com/to/JFk3MS6K
 
 ## Équipe et commentaires
 
-Nom de l'equipe: PasL'etat
-On a pu apprendre la création étape par étape d'un NFT et d'une collection.
-On a pu tester et interagir avec l'api de Starton.
-Aussi grâce au plugin Zappier de starton on a pu réaliser notre formulaire et démontrer notre idée.
+Nom de l'equipe: PasL'etat<br/>
+On a pu apprendre la création étape par étape d'un NFT et d'une collection.<br/>
+On a pu tester et interagir avec l'api de Starton.<br/>
+Aussi grâce au plugin Zappier de starton on a pu réaliser notre formulaire et démontrer notre idée.<br/>
 
 ## Rendu
-Notre lien explicatif du POC de notre projet:
+Notre lien explicatif du POC de notre projet:<br/>
 https://www.loom.com/share/0c098a5a80184815898c1c1fc8a66700
